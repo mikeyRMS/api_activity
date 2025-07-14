@@ -8,10 +8,6 @@
 </head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
     <!-- Navigation Bar -->
-    <h1 class="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-
 
 
 
